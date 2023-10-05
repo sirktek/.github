@@ -18,9 +18,8 @@ stateDiagram-v2
 ```
 
 ## Developer information
-
-- [Architecture](https://github.com/sirktek/sirk-tek-documentation/architecture)
-- [Development process](https://github.com/sirktek/sirk-tek-documentation/devops)
+- [Architecture](https://github.com/sirktek/sirk-tek-documentation/tree/main/architecture)
+- [Development process](https://github.com/sirktek/sirk-tek-documentation/tree/main/devops)
 - [Design guidelines](https://github.com/sirktek/sirk-tek-design)
 
 
