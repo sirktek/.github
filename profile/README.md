@@ -19,9 +19,9 @@ stateDiagram-v2
 
 ## Developer information
 
-- [Architecture](https://github.com/sirktek/sirk-tech-documentation/architecture)
-- [Development process](https://github.com/sirktek/sirk-tech-documentation/devops)
-- [Design guidelines](https://github.com/sirktek/sirk-tech-design)
+- [Architecture](https://github.com/sirktek/sirk-tek-documentation/architecture)
+- [Development process](https://github.com/sirktek/sirk-tek-documentation/devops)
+- [Design guidelines](https://github.com/sirktek/sirk-tek-design)
 
 
 ## The sirk.app application
