@@ -1,6 +1,5 @@
-# Sirk-Tek
 
-  ![Sirk-Tek logo](img/logo-white.png)
+  ![Sirk-Tek logo](profile/img/logo-white.png)
 
 ## Developer information
 
