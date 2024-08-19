@@ -26,9 +26,9 @@ The [Sirk-Tek Assured Quality (STAQ)](https://github.com/sirktek/sirk-tek-assure
 - [Design guidelines](https://github.com/sirktek/sirk-tek-design)
 
 
-## The sirk.app application
+### The SIRK:tag application
 
-The sirk.app application is a service to tag and manage assets and inventory.
+The [SIRK:tag](https://tag.sirktek.com) application is a service to tag and manage assets and inventory.
 Tracking and managing the life cycle of assets  makes it possible to reuse, redesign
 and if necessary recycle whole or parts of these assets.
 
