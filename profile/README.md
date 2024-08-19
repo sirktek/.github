@@ -1,6 +1,6 @@
 
-  ![Sirk-Tek logo](/img/sirk-tek-logo.png)
-
+  ![Sirk-Tek logo]([/img/sirk-tek-logo.png](https://github.com/sirktek/.github/blob/712e0fb32211d11095d7602c6daef9538dc20f2b/profile/img/sirk-tek-logo.png)
+  
 Sirk-Tek AS is a Norwegian tech company developing systems and tools to realize
 the circular economy.
 
