@@ -1,20 +1,18 @@
 
-  ![Sirk-Tek logo](profile/img/sirk-tek-logo.png)
+  ![Sirk-Tek logo](/img/sirk-tek-logo.png)
 
 Sirk-Tek AS is a Norwegian tech company developing systems and tools to realize
 the circular economy.
 
 ```mermaid
 stateDiagram-v2
-    Factory --> In_use
+    Production --> In_use
     In_use --> Service
     Service --> In_use
-    In_use --> Storage
-    Storage --> Service
-    Storage --> In_use
-    Service --> Reuse_parts
-    Reuse_parts --> Service
-    Reuse_parts --> Factory
+    Service --> Disposal
+    Disposal --> Service: Reuse of parts
+    Disposal --> Production: Recycling
+    Disposal --> [*]: Destruction
 ```
 
 ## Developer information
