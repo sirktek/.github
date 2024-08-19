@@ -15,6 +15,10 @@ stateDiagram-v2
     Disposal --> [*]: Destruction
 ```
 
+## Sirk-Tek Assured Quality
+
+The [Sirk-Tek Assured Quality (STAQ)](https://github.com/sirktek/sirk-tek-assured-quality/tree/main/) is the internal quality managment system.
+
 ## Developer information
 - [Development process](https://github.com/sirktek/sirk-tek-assured-quality/tree/main/4-devops)
 - [Architecture](https://github.com/sirktek/sirk-tek-documentation/tree/main/architecture)
